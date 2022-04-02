@@ -1,0 +1,1 @@
+export {Intervention as default} from './Intervention'
